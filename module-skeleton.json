@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-shipping-nuxt",
+  "capabilityKey": "planned:ecommerce:shipping",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-shipping-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/shipping.md",
+  "presentationPlan": "projects/ecommerce/nuxt/shipping.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
